@@ -1,0 +1,63 @@
+Restaurant_ID,Restaurant_name,Latitude,Longitude,Neighborhood
+1,Le Bernardin,40.761693,-73.981887,Midtown
+2,Eleven Madison Park,40.741486,-73.986464,Gramercy
+3,Jean-Georges,40.769083,-73.981434,Lincoln Square
+4,Masa,40.768568,-73.983041,Lincoln Square
+5,Per Se,40.768226,-73.982864,Lincoln Square
+6,Aquavit,40.760883,-73.972236,Midtown
+7,atera,40.716911,-74.005435,Tribeca
+8,Daniel,40.766777,-73.967602,Lenox Hill
+9,Ichimura at Brushstroke,40.716587,-74.008912,Tribeca
+10,Jungsik,40.718829,-74.009076,Tribeca
+11,Marea,40.76741,-73.981059,Lincoln Square
+12,The Modern,40.761081,-73.976755,Midtown
+13,Momofuku Ko,40.724784,-73.991442,East Village
+14,Soto,40.732235,-74.000884,West Village
+15,Ai Fiori,40.750138,-73.983891,Garment District
+16,Aldea,40.738754,-73.993781,Gramercy Park
+17,Andanada,40.776267,-73.981454,Upper West Side
+18,Aureole,40.755632,-73.985259,Midtown
+19,Babbo,40.732346,-73.999237,Greenwich Village
+20,Batard,40.719592,-74.00576,Tribeca
+21,Betony,40.764207,-73.976253,Midtown
+22,Blue Hill,40.732091,-73.999658,Greenwich Village
+23,Bouley,40.716985,-74.008958,Tribeca
+24,The Breslin,40.745584,-73.988068,Chelsea
+25,Brushstroke,40.71665,-74.008953,Tribeca
+26,Cafe Boulud,40.774494,-73.964085,Upper East Side
+27,Cafe China,40.750081,-73.982082,Garment District
+28,Cagen,40.727747,-73.984252,East Village
+29,Carbone,40.727998,-74.000207,Greenwich Village
+30,Casa Mono,40.735927,-73.987164,Gramercy
+31,Caviar Russe,40.760753,-73.973775,Midtown
+32,Del Posto,40.743542,-74.007945,Chelsea
+33,Dovetail,40.780938,-73.976625,Upper West Side
+34,Gabriel Kreuther,40.754619,-73.982728,Midtown
+35,Gotham Bar and Grill,40.73421,-73.993694,Greenwich Village
+36,Gramercy Tavern,40.738461,-73.988504,Gramercy
+37,HIROHISA,40.724555,-74.003038,Soho
+38,Jewel Bako,40.72707,-73.98929,East Village
+39,Juni,40.74609,-73.985193,Murray Hill
+40,Junoon,40.743065,-73.990865,Chelsea
+41,Kajitsu,40.749906,-73.977689,Murray Hill
+42,Kyo Ya,40.726637,-73.985386,East Village
+43,Minetta Tavern,40.729995,-74.000623,Greenwich Village
+44,The Musket Room,40.723931,-73.993817,Soho
+45,The NoMad,40.744927,-73.988557,Rose Hill
+46,Picholine,40.77202,-73.981089,Upper West Side
+47,Piora,40.730642,-74.006535,West Village
+48,Public,40.722235,-73.994175,Soho
+49,Rebelle,40.721969,-73.993754,Soho
+50,Rosanjin,40.716562,-74.007686,Tribeca
+51,Somtum Der,40.725219,-73.984426,East Village
+52,The Spotted Pig,40.735615,-74.006649,West Village
+53,Sushi Azabu,40.722433,-74.009916,Soho
+54,Sushi of Gari,40.760654,-73.989609,Hell's Kitchen
+55,Sushi Yasuda,40.751143,-73.973494,Turtle Bay
+56,Telepan,40.775176,-73.979926,Upper West Side
+57,Tempura Matsui,40.748168,-73.974918,Murray Hill
+58,Tori Shin,40.765064,-73.987167,Hell's Kitchen
+59,Tulsi,40.753271,-73.971881,Turtle Bay
+60,Uncle Boons,40.721368,-73.994326,Soho
+61,Wallsé,40.735441,-74.008253,West Village
+62,ZZ's Clam Bar,40.727694,-74.00046,West Village
